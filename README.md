@@ -1,12 +1,12 @@
 
-#Test Multisafepay
+# Test Multisafepay:
 
 ## Description
 
 The purpose of this test is the creation of a  very simple application using different techniques.
 The project delivery can be done using bit bucket or git repository (preferred) or as a zip file.
 
-Frontend
+## Frontend
 
 Use Bootstrap as the css Framework.
 
@@ -18,7 +18,7 @@ Via XHR, do a request to backend and display order information using Javascript 
 4.	Customer info
 5.	Shopping cart
 
-Backend
+## Backend
 
 OOP PHP custom code or using FuelPhp framework.
 
@@ -36,7 +36,6 @@ Use:
 -------------------------------------------------------------------------------------------------------------------------
 XML Api Request (NOTE: Replace {TRANSACTION ID} with a valid transaction id.)
 
-
 POST - https://devapi.multisafepay.com/ewx/
 
 <?xml version="1.0" encoding="UTF-8"?>  
@@ -51,7 +50,9 @@ POST - https://devapi.multisafepay.com/ewx/
    </transaction>  
 </status>
 
-#FuelPHP
+# Tecnology:
+
+## FuelPHP
 
 * Version: 1.8
 * [Website](http://fuelphp.com/)
